@@ -1,6 +1,6 @@
 recipe_finder
 
-Overview
+
 The Recipe Finder is a Python application designed to help users search for recipes based on an ingredient. It fetches data from the Edamam API and allows users to apply filters like cuisine type, meal type, and dish type. The results, including recipe names and URLs, are saved to a text file.
 
 Project Structure
